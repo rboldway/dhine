@@ -1,0 +1,11 @@
+We've set up the basics of webpack-rails for you, but you'll still
+need to:
+
+  1. Add the 'application' entry point in to your layout, and
+  2. Run 'foreman start' to run the webpack-dev-server and rails server
+
+See the README.md for this gem at
+https://github.com/mipearson/webpack-rails/blob/master/README.md
+for more info.
+
+Thanks for using webpack-rails!
